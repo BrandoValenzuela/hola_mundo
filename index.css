@@ -24,8 +24,8 @@ body{
 -moz-box-shadow: 10px 10px 5px 0px rgba(184,184,184,0.75);
 }
 .columna{
-    height: 60vh;
-    max-height: 60vh;
+    height: 70vh;
+    max-height: 70vh;
 }
 .columna-derecha{
     background: #fff;
